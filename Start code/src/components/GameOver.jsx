@@ -1,6 +1,5 @@
 /** @format */
 
-// components/GameOver.jsx
 import React from "react";
 
 function GameOver({ winner, restartGame }) {
